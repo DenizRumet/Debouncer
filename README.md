@@ -1,0 +1,2 @@
+# Debouncer
+For mechanical switches
